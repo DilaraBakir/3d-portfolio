@@ -37,6 +37,7 @@ const Contact = () => {
         from_email: form.email,
         to_email: 'dilaraa.bakir@gmail.com',
         message: form.message,
+        reply_to: form.email,
       },
       'wj4cUtGyrL2i7kQEI'
     ).then(() => {
