@@ -129,7 +129,7 @@ const technologies = [
         name: "docker",
         icon: docker,
     },
-   
+
 ];
 
 const experiences = [
@@ -140,11 +140,11 @@ const experiences = [
         iconBg: "#E6DEDD",
         date: "August 2025 – September 2025",
         points: [
-           "Completed a multidisciplinary training program covering Python, AutoCAD, Excel, and Photoshop.",
-           "Developed a modular Python To-Do List application using text-based storage and file I/O operations.",
-           "Designed a fully furnished room layout in AutoCAD with technical drawing standards and proper layer management.",
-           "Created a Spider-Man movie poster using compositing, color correction, and typography techniques in Photoshop.",
-           "Built an interactive Excel dashboard with pivot tables, slicers, and dynamic charts for data analysis.",
+            "Completed a multidisciplinary training program covering Python, AutoCAD, Excel, and Photoshop.",
+            "Developed a modular Python To-Do List application using text-based storage and file I/O operations.",
+            "Designed a fully furnished room layout in AutoCAD with technical drawing standards and proper layer management.",
+            "Created a Spider-Man movie poster using compositing, color correction, and typography techniques in Photoshop.",
+            "Built an interactive Excel dashboard with pivot tables, slicers, and dynamic charts for data analysis.",
 
         ],
     },
@@ -357,7 +357,7 @@ const projects = [
     {
         name: "PetBot",
         description:
-            "An AI-powered virtual assistant built using the OpenAI API, designed to function like ChatGPT but fully specialized in pets and animal adoption. Users can ask questions about breeds, care routines, training tips, and adoption guidance, and PetBot provides intelligent, context-aware responses. The platform delivers a personalized and supportive experience for anyone seeking reliable information about pet ownership and adoption.",
+            "An AI-powered virtual assistant built using the OpenAI API, designed to function like ChatGPT but fully specialized in pets and animal adoption. Users can ask questions about breeds, care routines, training tips, and adoption guidance, and PetBot provides intelligent, context-aware responses. The platform delivers a personalized and supportive experience for anyone seeking reliable information about pet ownership and adoption. With this link you can visit the live demo of the application: https://pet-bot.vercel.app/",
         tags: [
             {
                 name: "react",
@@ -375,7 +375,7 @@ const projects = [
         image: petbot,
         source_code_link: "https://github.com/DilaraBakir/PetBot",
     },
-        {
+    {
         name: "Instagram Clone",
         description:
             "A full-feature Instagram-style web application that supports story and post creation, viewing detailed post pages, liking and unliking posts, writing, deleting, and replying to comments, and managing user profiles. Users can create and edit their profiles, discover suggested accounts in the sidebar, and follow or unfollow other users through a built-in social graph. The app delivers a smooth, modern experience with real-time updates that reflect likes, comments, and interactions instantly without requiring page refreshes.",
